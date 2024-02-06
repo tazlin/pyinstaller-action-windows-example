@@ -1,3 +1,6 @@
 --extra-index-url https://download.pytorch.org/whl/cu121
 torch>=2.1.0
 hordelib==2.5.0
+
+pyinstaller-hooks-contrib # for pydantic in particular at the time of writing
+
