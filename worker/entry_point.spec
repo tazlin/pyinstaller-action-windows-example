@@ -2,7 +2,7 @@
 
 
 a = Analysis(
-    ['worker\\entry_point.py'],
+    ['entry_point.py'],
     pathex=[],
     binaries=[],
     datas=[],
